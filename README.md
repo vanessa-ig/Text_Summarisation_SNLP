@@ -1,2 +1,2 @@
 # Text_Summarisation_SNLP
-COMP0087 Project
+This research is produced as a part of coursework for Statistical Natural Language Processing (COMP0087).
